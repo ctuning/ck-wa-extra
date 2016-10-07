@@ -1,2 +1,5 @@
-# ck-wa-extra
-Extra resources for CK-powered Workload Automation
+Extra resources for ARM WA in Collective Knowledge Format
+=========================================================
+
+You can find more info at CK-WA GitHub page:
+* http://github.com/ctuning/ck-wa
